@@ -1,3 +1,3 @@
 # proje-1
 
-TEST
+print
