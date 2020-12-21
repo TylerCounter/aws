@@ -1,2 +1,2 @@
 # aws
-fgshsedhaerhgaergfdvb
+Ömer Faruk trying
